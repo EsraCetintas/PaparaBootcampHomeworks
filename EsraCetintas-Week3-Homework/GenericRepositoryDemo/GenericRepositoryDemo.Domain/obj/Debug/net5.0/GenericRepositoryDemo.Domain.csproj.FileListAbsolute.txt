@@ -1,0 +1,12 @@
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\bin\Debug\net5.0\GenericRepositoryDemo.Domain.deps.json
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\bin\Debug\net5.0\GenericRepositoryDemo.Domain.dll
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\bin\Debug\net5.0\GenericRepositoryDemo.Domain.pdb
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\obj\Debug\net5.0\GenericRepositoryDemo.Domain.csproj.AssemblyReference.cache
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\obj\Debug\net5.0\GenericRepositoryDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\obj\Debug\net5.0\GenericRepositoryDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\obj\Debug\net5.0\GenericRepositoryDemo.Domain.AssemblyInfo.cs
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\obj\Debug\net5.0\GenericRepositoryDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\obj\Debug\net5.0\GenericRepositoryDemo.Domain.dll
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\obj\Debug\net5.0\refint\GenericRepositoryDemo.Domain.dll
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\obj\Debug\net5.0\GenericRepositoryDemo.Domain.pdb
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Domain\obj\Debug\net5.0\ref\GenericRepositoryDemo.Domain.dll

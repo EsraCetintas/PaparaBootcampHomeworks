@@ -1,0 +1,17 @@
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\bin\Debug\net5.0\GenericRepositoryDemo.Business.deps.json
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\bin\Debug\net5.0\GenericRepositoryDemo.Business.dll
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\bin\Debug\net5.0\GenericRepositoryDemo.Business.pdb
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\bin\Debug\net5.0\GenericRepositoryDemo.Data.dll
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\bin\Debug\net5.0\GenericRepositoryDemo.Domain.dll
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\bin\Debug\net5.0\GenericRepositoryDemo.Data.pdb
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\bin\Debug\net5.0\GenericRepositoryDemo.Domain.pdb
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\obj\Debug\net5.0\GenericRepositoryDemo.Business.csproj.AssemblyReference.cache
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\obj\Debug\net5.0\GenericRepositoryDemo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\obj\Debug\net5.0\GenericRepositoryDemo.Business.AssemblyInfoInputs.cache
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\obj\Debug\net5.0\GenericRepositoryDemo.Business.AssemblyInfo.cs
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\obj\Debug\net5.0\GenericRepositoryDemo.Business.csproj.CoreCompileInputs.cache
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\obj\Debug\net5.0\GenericRepositoryDemo.Business.csproj.CopyComplete
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\obj\Debug\net5.0\GenericRepositoryDemo.Business.dll
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\obj\Debug\net5.0\refint\GenericRepositoryDemo.Business.dll
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\obj\Debug\net5.0\GenericRepositoryDemo.Business.pdb
+C:\Users\esrac\source\repos\GenericRepositoryDemo\GenericRepositoryDemo.Business\obj\Debug\net5.0\ref\GenericRepositoryDemo.Business.dll
