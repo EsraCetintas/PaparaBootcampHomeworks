@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esrac\\source\\repos\\GenericRepositoryDemo\\GenericRepositoryDemo.Domain\\GenericRepositoryDemo.Domain.csproj": {}
+    "C:\\Users\\esrac\\Desktop\\PaparaBootcampHomeworks\\PaparaBootcampHomeworks\\EsraCetintas-Week3-Homework\\GenericRepositoryDemo\\GenericRepositoryDemo.Domain\\GenericRepositoryDemo.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esrac\\source\\repos\\GenericRepositoryDemo\\GenericRepositoryDemo.Domain\\GenericRepositoryDemo.Domain.csproj": {
+    "C:\\Users\\esrac\\Desktop\\PaparaBootcampHomeworks\\PaparaBootcampHomeworks\\EsraCetintas-Week3-Homework\\GenericRepositoryDemo\\GenericRepositoryDemo.Domain\\GenericRepositoryDemo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esrac\\source\\repos\\GenericRepositoryDemo\\GenericRepositoryDemo.Domain\\GenericRepositoryDemo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\esrac\\Desktop\\PaparaBootcampHomeworks\\PaparaBootcampHomeworks\\EsraCetintas-Week3-Homework\\GenericRepositoryDemo\\GenericRepositoryDemo.Domain\\GenericRepositoryDemo.Domain.csproj",
         "projectName": "GenericRepositoryDemo.Domain",
-        "projectPath": "C:\\Users\\esrac\\source\\repos\\GenericRepositoryDemo\\GenericRepositoryDemo.Domain\\GenericRepositoryDemo.Domain.csproj",
+        "projectPath": "C:\\Users\\esrac\\Desktop\\PaparaBootcampHomeworks\\PaparaBootcampHomeworks\\EsraCetintas-Week3-Homework\\GenericRepositoryDemo\\GenericRepositoryDemo.Domain\\GenericRepositoryDemo.Domain.csproj",
         "packagesPath": "C:\\Users\\esrac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esrac\\source\\repos\\GenericRepositoryDemo\\GenericRepositoryDemo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\esrac\\Desktop\\PaparaBootcampHomeworks\\PaparaBootcampHomeworks\\EsraCetintas-Week3-Homework\\GenericRepositoryDemo\\GenericRepositoryDemo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -52,8 +52,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -62,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

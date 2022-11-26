@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/S87cs5CLdheGAoyqlw5ERChE0XW7vsnEe21nLvIxDk+F9VZZlUi909NfUjaZUSgdVPjPjx+6zTHW1xxUlAo0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esrac\\Desktop\\demo\\GenericRepositoryDemo\\GenericRepositoryDemo\\GenericRepositoryDemo.Domain\\GenericRepositoryDemo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esrac\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

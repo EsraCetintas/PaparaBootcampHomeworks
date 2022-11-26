@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Hoo2r16G9JZdLv3WGbvlUy+9wtkXCy14zOWS570tX/2YGTeBHqejL/DTaXW3aSEn9xbZ4xlU+YjAcj+g+qa8A==",
+  "dgSpecHash": "9FT203U7V9MmKROuyONTmtnw5y/jzVrmqp9tbiXp5sZ8729vkYNcGuWwMSNMzlFcTANHn5RAF9CUr140QSLWiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esrac\\source\\repos\\GenericRepositoryDemo\\GenericRepositoryDemo.WebAPI\\GenericRepositoryDemo.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\esrac\\Desktop\\PaparaBootcampHomeworks\\PaparaBootcampHomeworks\\EsraCetintas-Week3-Homework\\GenericRepositoryDemo\\GenericRepositoryDemo.WebAPI\\GenericRepositoryDemo.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esrac\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\esrac\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

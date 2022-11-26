@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rX+yckn2MtQLsr5/PhpxbpXETqJI/Zk3z3/ulCrYwExsmWqaRsFlN9uQEoukw/kudQ9fEipc9UoyTbSTNzdW/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esrac\\Desktop\\demo\\GenericRepositoryDemo\\GenericRepositoryDemo\\GenericRepositoryDemo.Core\\GenericRepositoryDemo.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esrac\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\esrac\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\esrac\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\esrac\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\esrac\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\esrac\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
